@@ -1,0 +1,20 @@
+HTTrack3.50-4 launched on Sun, 11 Oct 2026 10:22:22 at https://mail.myaccess.ca/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "en, *" https://mail.myaccess.ca/ -O1 "C:\My Web Sites\ca" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:24:38	Warning: 	Illegal chunk () for https://mail.myaccess.ca/help/advanced/zimbra_user_help.htm
+10:24:42	Warning: 	Illegal chunk () for https://mail.myaccess.ca/help/advanced/zwc_help_files/15_s_mime/setting_up_smime.htm
+10:24:47	Error: 	"Not Found" (404) at link https://mail.myaccess.ca/zimbra/img/logo/apple-touch-icon.png?v=260707094130 (from https://mail.myaccess.ca/zimbra/css/images,common,dwt,zm,skin.css?v=260707094130&skin=)
+10:24:47	Error: 	"Not Found" (404) at link https://mail.myaccess.ca/zimbra/img/dwt/Expand.gif?v=260707094130 (from https://mail.myaccess.ca/zimbra/css/images,common,dwt,zm,skin.css?v=260707094130&skin=)
+10:24:47	Error: 	"Not Found" (404) at link https://mail.myaccess.ca/zimbra/img/dwt/Collapse.gif?v=260707094130 (from https://mail.myaccess.ca/zimbra/css/images,common,dwt,zm,skin.css?v=260707094130&skin=)
+10:24:47	Error: 	"Invalid chunk" (-1) at link https://mail.myaccess.ca/help/advanced/zimbra_user_help.htm (from https://mail.myaccess.ca/zimbra/res/I18nMsg,AjxMsg,ZmMsg,ZMsg.js.zgz?v=260707094130&debug=false&skin=harmony)
+10:24:47	Error: 	"Not Found" (404) at link https://mail.myaccess.ca/public/Location (from https://mail.myaccess.ca/zimbra/res/I18nMsg,AjxMsg,ZmMsg,ZMsg.js.zgz?v=260707094130&debug=false&skin=harmony)
+10:24:47	Error: 	"Invalid chunk" (-1) at link https://mail.myaccess.ca/help/advanced/zwc_help_files/15_s_mime/setting_up_smime.htm (from https://mail.myaccess.ca/zimbra/res/I18nMsg,AjxMsg,ZmMsg,ZMsg.js.zgz?v=260707094130&debug=false&skin=harmony)
+
+HTTrack Website Copier/3.50-4 mirror complete in 2 minutes 25 seconds : 77 links scanned, 70 files written (1514014 bytes overall) [745320 bytes received at 5140 bytes/sec], 1037960 bytes transferred using HTTP compression in 7 files, ratio 22%
+(6 errors, 2 warnings, 0 messages)
+(2 links failed to transfer, so the mirror is incomplete)

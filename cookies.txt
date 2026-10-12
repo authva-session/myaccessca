@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+mail.myaccess.ca	TRUE	/	FALSE	1999999999	ZM_TEST	true
+mail.myaccess.ca	TRUE	/	FALSE	1999999999	ZM_LOGIN_CSRF	d9fd6038-c34a-466b-9897-a3e6a8aea962
+
